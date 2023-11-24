@@ -1,4 +1,6 @@
 # Spring Boot Phone Booking Example Project
+<img src="https://img.shields.io/badge/SpringBoot-COLOR.svg?logo=LOGO">
+<img src="https://img.shields.io/badge/Java-blue">
 
 This is a sample Java / Maven / Spring Boot (version 1.5.6) application of phone booking.
 
